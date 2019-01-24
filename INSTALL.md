@@ -23,3 +23,24 @@ docker run -it \
 panorama/chrome:fifth
 ```
 
+### Start RubyMine and run the application
+* Run script on the docker to start RubyMine:
+```
+$ cd /home
+$ ./start-rubymine.sh
+```
+A RubyMine IDE will be opened.
+
+* Start a chrome browser:
+```
+$ ./start-chrome.sh
+```
+A chrome browser will be launched.
+
+* Start mysql server:
+```
+$ ./start-mysql.sh
+```
+Mysql server will start with OK status.
+
+If RubyMine IDE, Chrome, and Mysql are launched successfully, then the artifact is installed successfully.
