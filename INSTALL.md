@@ -8,7 +8,7 @@ You can also find it as belows:
 $ docker pull panorama/chrome:fifth
 ```
 
-* If you are using Mac, make sure [XQuartz](https://www.xquartz.org) is installed and opened before running the start script.
+* If you are using Mac, make sure [XQuartz](https://www.xquartz.org) is installed and opened before next step.
 
 * Copy the following into a script file (e.g., `start.sh`), and login to the docker image by running this script:
 ```
