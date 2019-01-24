@@ -1,3 +1,4 @@
+
 This artifact for our companion paper “View-Centric Performance Optimization for
 Database-Backed Web Applications (#273)” includes both the Panorama framework we developed and some raw data produced by our user study. 
 
@@ -32,5 +33,3 @@ Also we provide code and data used to evaluate Panorama in the paper: 1) the sou
 	 $ ./run_RQ4.sh
 	 ```
 	 The complexity of tags will be printed out. And the end-to-end time for each design will be printed out, which comes from our previous running logs. 
-
-
